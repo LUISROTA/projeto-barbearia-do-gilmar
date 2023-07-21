@@ -152,9 +152,8 @@ nav a:hover {
     text-align: center;
     margin-top: 20px; /* Espaço entre a seção de contato e a de localização */
   }
-  
   .mapa {
     width: 100%; /* Definir largura do mapa como 100% da div */
     max-width: 600px; /* Definir o tamanho máximo da div que contém o mapa */
   }
-  
+ 
