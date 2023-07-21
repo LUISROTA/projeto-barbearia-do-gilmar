@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+section {
+    padding: 30px;
+}
+
+.servicos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.servico {
+    width: 300px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.servico img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.whatsapp-button {
+    background-color: #25D366;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.whatsapp-button i {
+    margin-right: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+/* Restante do CSS ... */
+
+section {
+    padding: 30px;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.servicos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.servico {
+    width: 300px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Restante do CSS ... */
